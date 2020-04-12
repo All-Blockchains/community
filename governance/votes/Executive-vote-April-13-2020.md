@@ -1,6 +1,6 @@
 # Vote: Setting JST issuing Price - April 13th, 2020
 
-The Governance committee of JUST has added into the [voting system](https://just.tronscan.org/#/vote) a new proposal that allows setting the issuing price of JST.
+A new proposal that allows setting the issuing price of JST has been added into the voting system by the JUST Governance committee.
 
 ### Voters can now vote to:
 
