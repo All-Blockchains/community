@@ -1,4 +1,4 @@
-# Executive vote - JUNE 7, 2020
+# Executive vote - June 7, 2020
 
 The Just Governance committee has placed an Executive Vote into the [voting system](https://just.tronscan.org/#/vote), which will enable the community to enact a new USDJ Stability Fee of 0% from June 7 2020 - June 21 2020.
 The Executive Vote will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a continuous approval vote in the following time range: June 4 to June 6
